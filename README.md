@@ -34,7 +34,7 @@ Gives better insight of customers base.
 Helps in easy flow for managing resources.
 
 # Data Visualization
-https://app.powerbi.com/groups/me/reports/e3fa2167-86f8-4b31-abbf-78bc90f541e7?pbi_source=PowerPoint
+https://app.powerbi.com/groups/me/reports/a76e7044-9395-4532-ae2c-463d33660666/ReportSection?experience=power-bi
 
 # Conclusion
 1.The scatter plot also suggests that total profit and total revenue are directly proportional to each other.
